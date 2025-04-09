@@ -1,2 +1,6 @@
 # LearnAndCode
-This repository will consist of tasks from different sources and solutions to these same tasks.
+### This repository will consist of tasks from different sources and solutions to these same tasks.
+At this moment, this repository uses as __source__:
+  - Codewars
+
+Thank you for your time! :sparkling_heart:
