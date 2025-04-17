@@ -22,3 +22,5 @@ func Num(ip string) float64 {
 	}
 	return float64(acc)
 }
+
+func main() {}
